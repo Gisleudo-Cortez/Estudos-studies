@@ -1,0 +1,30 @@
+The rest of the study points have been completed in prior studies on DS_102
+
+On Part_02.ipynb
+
+2.1 Perform standard data import, joining and aggregation tasks
+
+2.2 Perform standard cleaning tasks to prepare data for analysis
+
+2.3 Assess data quality and perform validation tasks
+
+2.4 Collect data from non-standard formats by modifying existing code
+
+On Part_03.ipynb
+
+3.1 Prepare data for modeling by implementing relevant transformations.
+
+3.2 Implement standard modeling approaches for supervised learning problems.
+
+3.3 Implement approaches for unsupervised learning problems.
+
+3.4 Use suitable methods to assess the performance of a model.
+
+On Part_04.ipynb
+
+4.1 Use common programming constructs to write repeatable production quality code for
+analysis.
+
+4.2 Demonstrates best practices in production code including version control, testing, and
+package development.
+
