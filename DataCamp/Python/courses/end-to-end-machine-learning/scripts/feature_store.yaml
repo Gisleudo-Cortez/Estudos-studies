@@ -1,0 +1,7 @@
+project: heart_disease_project
+
+provider: local
+
+registry: feature_registry.db
+
+entity_key_serialization_version : 2
