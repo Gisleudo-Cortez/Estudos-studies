@@ -1,0 +1,10 @@
+digest: f33ce303
+name: dataset
+profile: '{"num_rows": 35, "num_elements": 140}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "R&D Spend", "required": true},
+  {"type": "double", "name": "Administration", "required": true}, {"type": "double",
+  "name": "Marketing Spend", "required": true}, {"type": "long", "name": "State",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "nero", "mlflow.source.name": "/home/nero/Documents/Estudos/estudos/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "2a096e301fb46519ff9347ebbea6620aa20eed82"}}'
+source_type: code

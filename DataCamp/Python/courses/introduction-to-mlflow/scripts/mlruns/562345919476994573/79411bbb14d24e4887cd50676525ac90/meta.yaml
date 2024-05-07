@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nero/Documents/Estudos/DataCamp/Python/courses/introduction-to-mlflow/scripts/mlruns/562345919476994573/79411bbb14d24e4887cd50676525ac90/artifacts
+end_time: 1715081146903
+entry_point_name: ''
+experiment_id: '562345919476994573'
+lifecycle_stage: active
+run_id: 79411bbb14d24e4887cd50676525ac90
+run_name: honorable-sloth-408
+run_uuid: 79411bbb14d24e4887cd50676525ac90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715081145811
+status: 3
+tags: []
+user_id: nero

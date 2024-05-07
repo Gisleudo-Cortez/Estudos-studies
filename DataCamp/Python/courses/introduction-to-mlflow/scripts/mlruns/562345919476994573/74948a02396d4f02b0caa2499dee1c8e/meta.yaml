@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nero/Documents/Estudos/DataCamp/Python/courses/introduction-to-mlflow/scripts/mlruns/562345919476994573/74948a02396d4f02b0caa2499dee1c8e/artifacts
+end_time: 1715081031757
+entry_point_name: ''
+experiment_id: '562345919476994573'
+lifecycle_stage: active
+run_id: 74948a02396d4f02b0caa2499dee1c8e
+run_name: sneaky-shrike-691
+run_uuid: 74948a02396d4f02b0caa2499dee1c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715081030596
+status: 3
+tags: []
+user_id: nero
